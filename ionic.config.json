@@ -1,0 +1,7 @@
+{
+  "name": "SongDetail",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
